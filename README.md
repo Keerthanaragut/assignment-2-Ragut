@@ -20,7 +20,7 @@ Munnar is a city in *Kerala, India*. This city is famous for its **Natural beaut
 [AboutMe link](https://github.com/Keerthanaragut/assignment-2-Ragut/blob/main/AboutMe.md)
 
 ---
-### Japenese Cusine
+### Japenese Cuisine
 
 The table contains food items and price of the particular item and the location where we can get the item.
 
@@ -31,6 +31,11 @@ The table contains food items and price of the particular item and the location 
 | 3 | Tiger Roll | Haiku | $1 |
 | 4 | Dragon Chicken | Haiku | $6 |
 
+---
+## The Good Quotes
+> If you're always trying to be normal you will never know how amazing you can be. - *Maya ANGELOU*
+
+>You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen. - *PAULO COELHO* 
 
 
 
