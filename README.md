@@ -10,4 +10,12 @@ Munnar is a city in *Kerala, India*. This city is famous for its **Natural beaut
 2. Take flight from chicago to Kerala, India. 
     1. we can take car or local bus to travel to Munnar
 3. Reached to Munnar
---- 
+
+* Board Games
+* Palying Cards
+* Travel Tents
+     * trecking shoes
+     * trecking kit
+
+
+
